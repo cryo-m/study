@@ -21,6 +21,10 @@ int func(double b) {
     return ceil(b);
 }
 
+int extremely_cool_function() {
+    cout << "This func is very cool and useful";
+}
+
 int main()
 {
     SetConsoleOutputCP(1251);
