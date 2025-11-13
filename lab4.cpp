@@ -7,7 +7,8 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello GitHub!"
+    cout << "Hello GitHub!";
+    cout << "Hello World!";
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
     // завдання 1
