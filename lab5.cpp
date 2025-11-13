@@ -7,6 +7,7 @@ using namespace std;
 int main()
 {
     SetConsoleOutputCP(1251);
+    cout << "Hello GitHub!";
     int sum = 0;
     int mult = 1;
     float Y, Z, x, y;
