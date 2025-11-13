@@ -9,6 +9,7 @@ int main()
 {
     cout << "Hello GitHub!";
     cout << "Hello World!";
+	cout << "Привіт світ!";
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
     // завдання 1
