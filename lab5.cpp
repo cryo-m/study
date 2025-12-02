@@ -23,4 +23,5 @@ int main()
     Z = mult + y * y;
     printf("Y = %f\nZ = %f\n", Y, Z);
     cout << "Goodbye Github!";
+
 }
